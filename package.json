@@ -1,0 +1,25 @@
+{
+  "name": "wdio-myversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^2.42.1",
+    "geckodriver": "^1.12.2",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "wdio": "^2.0.2",
+    "wdio-chromedriver-service": "^0.1.3",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "wdio-spec-reporter": "^0.1.5"
+  },
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.6.3"
+  }
+}
