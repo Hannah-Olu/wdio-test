@@ -1,6 +1,7 @@
 class Insight {
     get sideBar() {
         return $(".sidebar-header")
+        
     }
 
     fillForm() {
